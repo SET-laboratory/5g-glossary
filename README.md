@@ -1,6 +1,6 @@
 # Common 5G Terms
 
-While reading documents related 5G, I found one of the challenges is to understand all these acronyms, and there is a lack of dictionary on these terms. So I create this document to list them. The terms and explanations are collected from multiple sources.
+While reading documents related 5G, I found one of the challenges is to understand all these acronyms, and there is a lack of dictionary on these terms. Sometimes, there are different explanations on the same term. I create this document to list common terms and try to give the best explanation I learned. The terms and explanations are collected from multiple sources.
 
 - **AMF (Access and Mobility Management function).**  AMF supports termination of NAS signaling, NAS ciphering & integrity protection, registration management, connection management, mobility management, access authentication and authorization, security context management. (AMF has part of the MME functionality from EPC world).
 - **MME (Mobility Management Entity).** The MME is responsible for mobility and session management procedures in the EPC. As such, the MME communicates with the mobile via NAS (Non Access Stratum) signaling and communicates with the HSS through Diameter. Key responsibilities include ECM (EPS Connection Management), EMM (EPS Mobility Management), gateway selection, NAS security and handover assistance.
